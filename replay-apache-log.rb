@@ -1,5 +1,5 @@
 
-# replay apache logsat a server
+# replay apache logsat against a server
 
 require 'open-uri'
 require 'thread'

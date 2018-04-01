@@ -1,4 +1,5 @@
-# replay apache logsat a server
+
+# play a set of generated urls against server
 
 require 'open-uri'
 require 'thread'
